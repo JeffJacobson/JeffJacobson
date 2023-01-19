@@ -1,5 +1,7 @@
-[![Jeff Jacobson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffJacobson&locale=en&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffJacobson)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[[![Jeff Jacobson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffJacobson&locale=en&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffJacobson)](https://github.com/anuraghazra/github-readme-stats)](url)
+-->
 
 <!--
 **JeffJacobson/JeffJacobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
